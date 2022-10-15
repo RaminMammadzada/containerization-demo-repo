@@ -1,2 +1,2 @@
 # containerization-demo-repo
-# hello
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/RaminMammadzada/containerization-demo-repo/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/RaminMammadzada/containerization-demo-repo/tree/main)
